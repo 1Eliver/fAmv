@@ -5,6 +5,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\forms\\convertsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:forms\\convertsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\utils\\amvconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:utils\\amvconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\forms\\batchtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:forms\\batchtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\forms\\convertsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:forms\\convertsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|c:\\users\\administrator\\desktop\\prjs\\famv\\forms\\batchtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5FFEA4D-CB88-443A-882A-FF1284CADD5E}|fAmv.csproj|solutionrelative:forms\\batchtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +46,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:35:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertSettingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\ConvertSettingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ConvertSettingForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\ConvertSettingForm.cs",
+              "RelativeToolTip": "Forms\\ConvertSettingForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAzwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:51:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "Models\\Settings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Models\\Settings.cs",
+              "RelativeToolTip": "Models\\Settings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:03:00.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmvConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Utils\\AmvConverter.cs",
+              "RelativeDocumentMoniker": "Utils\\AmvConverter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Utils\\AmvConverter.cs",
+              "RelativeToolTip": "Utils\\AmvConverter.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowH0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:03:47.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BatchTaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\BatchTaskForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BatchTaskForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\BatchTaskForm.cs",
+              "RelativeToolTip": "Forms\\BatchTaskForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:40:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAcwG0BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:18:35.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7d19adb6-54a4-4071-a037-8d7c240020b8",
+        "Display": 1,
+        "X": -5,
+        "Y": 0,
+        "Width": 1502,
+        "Height": 838,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -29,7 +160,31 @@
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\MainForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T02:44:37.16Z",
+              "WhenOpened": "2025-03-07T07:18:07.965Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConvertSettingForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\ConvertSettingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ConvertSettingForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\ConvertSettingForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\ConvertSettingForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:18:11.092Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatchTaskForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\BatchTaskForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BatchTaskForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\prjs\\fAmv\\Forms\\BatchTaskForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\BatchTaskForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:39:08.479Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
