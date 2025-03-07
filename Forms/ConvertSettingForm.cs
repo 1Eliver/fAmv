@@ -126,5 +126,25 @@ namespace fAmv.Forms
                 UseShellExecute = true
             });
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            // 切换到 1.8英寸mp3 屏幕分辨率
+
+            resolution_x = 160;
+            resolution_y = 128;
+
+            bind();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            // 切换到 1.5英寸mp3 屏幕分辨率
+
+            resolution_x = 160;
+            resolution_y = 96;
+
+            bind();
+        }
     }
 }

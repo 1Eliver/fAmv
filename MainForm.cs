@@ -113,6 +113,16 @@ namespace fAmv
         private void button7_Click(object sender, EventArgs e)
         {
             // 添加任务单个任务
+            if (_save_file_name == "")
+            {
+                MessageBox.Show("必须有文件名", "错误", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            if (_target_file_path == "")
+            {
+                MessageBox.Show("必须选择文件", "错误", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
             add_task(_save_file_name, _target_file_path, TaskType.Single);
         }
 

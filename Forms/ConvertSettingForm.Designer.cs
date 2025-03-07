@@ -138,6 +138,7 @@
             button6.TabIndex = 7;
             button6.Text = "切换到1.5寸";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button5
             // 
@@ -147,6 +148,7 @@
             button5.TabIndex = 5;
             button5.Text = "切换到1.8寸";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // label1
             // 
